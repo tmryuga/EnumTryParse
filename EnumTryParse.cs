@@ -13,7 +13,6 @@ class Program
         var result2 = EnumTryParse("val1", Test.val0);  // result = val1
         var result3 = EnumTryParse(2, Test.val0);       // result = val2
 
-
         Console.ReadLine();
     }
 
